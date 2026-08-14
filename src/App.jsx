@@ -1,6 +1,6 @@
 import gsap from 'gsap'
 import {ScrollTrigger} from 'gsap/ScrollTrigger'
-import "./app.css";
+import "./App.css";
 import Navbar from './components/Navbar.jsx'
 import {SplitText} from 'gsap/SplitText'
 import Hero from './components/Hero.jsx';
